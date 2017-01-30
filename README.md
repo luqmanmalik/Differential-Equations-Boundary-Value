@@ -1,2 +1,4 @@
-# FDEBVP
-Fundamentals of Differential Equations and Boundary Value Problems — Nagle, Saff, Sneider
+## Fundamentals of Differential Equations and Boundary Value Problems
+### Sixth Edition
+#### Nagle, Saff, Sneider ####
+Solutions
